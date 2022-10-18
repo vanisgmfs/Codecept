@@ -1,0 +1,15 @@
+{
+  "name": "codecept",
+  "version": "1.0.0",
+  "description": "Projetos Mobile com Codecept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanilson",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.5",
+    "webdriverio": "^7.25.1"
+  }
+}
